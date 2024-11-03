@@ -6,7 +6,7 @@ import java.util.function.Consumer;
 
 public class ComponenteBarra extends JPanel {
     public JProgressBar jProgressBar1;
-    private Consumer<String> onCompletionListener; // Listener para notificar al completar
+    private Consumer<String> onCompletionListener; 
 
     public ComponenteBarra() {
         initComponents();
