@@ -1,3 +1,6 @@
+## You can support me at
+https://coff.ee/prome
+
 #COMPONENTE BARRA DE PROGRESO 
 
 Proyecto sobre una barra de progreso; 
